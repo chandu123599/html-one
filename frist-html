@@ -1,16 +1,8 @@
 <!DOCTYPE html> <!-- Spectify the version and html is root tag-->
 <head> <!-- Meta Data about webpage -->
-<title> MY WEB PAGES </title>
+<title>My Web Page</title> 
 </head>
-<body> 
-    <style>
-        p{
-           color: chocolate;
-        }
-        h1{
-            color: darkblue;
-        }
-    </style>
+<body>
 ​
     <img src="https://miro.medium.com/2560/1*jAwFJjRn0DYRA3fnxrR9PQ.jpeg" alt="Angular Logo Image">
     <!-- Heading Tags -->
